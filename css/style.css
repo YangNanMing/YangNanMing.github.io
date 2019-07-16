@@ -700,7 +700,3 @@ color:#404040;
 .commentys-form input[type="button"]:hover {
 	background-color: #ff5c5c
 }
-
-#photo1,#photo2{
-	float: left;
-}
